@@ -18,10 +18,6 @@ tasks:
     command: |
       cd frontend-react-js
       npm i
-  - name: python
-    command: |
-      cd backend-flask
-      pip install
       
 vscode:
   extensions:
