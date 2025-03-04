@@ -21,7 +21,7 @@ tasks:
   - name: python
     command: |
       cd backend-flask
-      pip i
+      pip install
       
 vscode:
   extensions:
